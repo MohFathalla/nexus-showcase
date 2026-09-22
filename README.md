@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="NEXUS — Process Safety Knowledge Management Platform" width="100%">
+</p>
+
 # NEXUS — Process Safety Knowledge Platform
 
 
