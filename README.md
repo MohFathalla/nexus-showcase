@@ -1,5 +1,12 @@
 # NEXUS — Process Safety Knowledge Platform
 
+
+### Technology Snapshot
+
+**React • TypeScript • NestJS • PostgreSQL • Prisma • REST API • RBAC • Enterprise AI**
+
+**Focus:** Process Safety • Knowledge Management • Enterprise AI • Digital Transformation
+
 > **From fragmented safety information to connected operational knowledge.**
 
 NEXUS is an enterprise Process Safety Knowledge Management platform designed to connect critical safety information, operational workflows and organizational knowledge in one governed digital environment.
